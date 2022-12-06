@@ -1,0 +1,15 @@
+D:\Visual Studio\Projects\LeetCode-Challenges\Loops\Loops\obj\Debug\net6.0\Loops.csproj.AssemblyReference.cache
+D:\Visual Studio\Projects\LeetCode-Challenges\Loops\Loops\obj\Debug\net6.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Projects\LeetCode-Challenges\Loops\Loops\obj\Debug\net6.0\Loops.AssemblyInfoInputs.cache
+D:\Visual Studio\Projects\LeetCode-Challenges\Loops\Loops\obj\Debug\net6.0\Loops.AssemblyInfo.cs
+D:\Visual Studio\Projects\LeetCode-Challenges\Loops\Loops\obj\Debug\net6.0\Loops.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Projects\LeetCode-Challenges\Loops\Loops\bin\Debug\net6.0\Loops.exe
+D:\Visual Studio\Projects\LeetCode-Challenges\Loops\Loops\bin\Debug\net6.0\Loops.deps.json
+D:\Visual Studio\Projects\LeetCode-Challenges\Loops\Loops\bin\Debug\net6.0\Loops.runtimeconfig.json
+D:\Visual Studio\Projects\LeetCode-Challenges\Loops\Loops\bin\Debug\net6.0\Loops.dll
+D:\Visual Studio\Projects\LeetCode-Challenges\Loops\Loops\bin\Debug\net6.0\Loops.pdb
+D:\Visual Studio\Projects\LeetCode-Challenges\Loops\Loops\obj\Debug\net6.0\Loops.dll
+D:\Visual Studio\Projects\LeetCode-Challenges\Loops\Loops\obj\Debug\net6.0\refint\Loops.dll
+D:\Visual Studio\Projects\LeetCode-Challenges\Loops\Loops\obj\Debug\net6.0\Loops.pdb
+D:\Visual Studio\Projects\LeetCode-Challenges\Loops\Loops\obj\Debug\net6.0\Loops.genruntimeconfig.cache
+D:\Visual Studio\Projects\LeetCode-Challenges\Loops\Loops\obj\Debug\net6.0\ref\Loops.dll

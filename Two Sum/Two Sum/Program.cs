@@ -41,6 +41,3 @@ public class Solution
         TwoSum(nums,6);
     }
 }
-
-//fazer um codigo que pega o primeiro elemento, roda o array e procura pelo resultado do target - primeiro elemento
-//se o numero nao existir, continua a busca e roda dnv

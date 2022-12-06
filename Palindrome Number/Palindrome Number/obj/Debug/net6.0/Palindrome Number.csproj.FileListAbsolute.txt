@@ -1,0 +1,15 @@
+D:\Visual Studio\Projects\LeetCode-Challenges\Palindrome Number\Palindrome Number\bin\Debug\net6.0\Palindrome Number.exe
+D:\Visual Studio\Projects\LeetCode-Challenges\Palindrome Number\Palindrome Number\bin\Debug\net6.0\Palindrome Number.deps.json
+D:\Visual Studio\Projects\LeetCode-Challenges\Palindrome Number\Palindrome Number\bin\Debug\net6.0\Palindrome Number.runtimeconfig.json
+D:\Visual Studio\Projects\LeetCode-Challenges\Palindrome Number\Palindrome Number\bin\Debug\net6.0\Palindrome Number.dll
+D:\Visual Studio\Projects\LeetCode-Challenges\Palindrome Number\Palindrome Number\bin\Debug\net6.0\Palindrome Number.pdb
+D:\Visual Studio\Projects\LeetCode-Challenges\Palindrome Number\Palindrome Number\obj\Debug\net6.0\Palindrome Number.csproj.AssemblyReference.cache
+D:\Visual Studio\Projects\LeetCode-Challenges\Palindrome Number\Palindrome Number\obj\Debug\net6.0\Palindrome Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Projects\LeetCode-Challenges\Palindrome Number\Palindrome Number\obj\Debug\net6.0\Palindrome Number.AssemblyInfoInputs.cache
+D:\Visual Studio\Projects\LeetCode-Challenges\Palindrome Number\Palindrome Number\obj\Debug\net6.0\Palindrome Number.AssemblyInfo.cs
+D:\Visual Studio\Projects\LeetCode-Challenges\Palindrome Number\Palindrome Number\obj\Debug\net6.0\Palindrome Number.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Projects\LeetCode-Challenges\Palindrome Number\Palindrome Number\obj\Debug\net6.0\Palindrome Number.dll
+D:\Visual Studio\Projects\LeetCode-Challenges\Palindrome Number\Palindrome Number\obj\Debug\net6.0\refint\Palindrome Number.dll
+D:\Visual Studio\Projects\LeetCode-Challenges\Palindrome Number\Palindrome Number\obj\Debug\net6.0\Palindrome Number.pdb
+D:\Visual Studio\Projects\LeetCode-Challenges\Palindrome Number\Palindrome Number\obj\Debug\net6.0\Palindrome Number.genruntimeconfig.cache
+D:\Visual Studio\Projects\LeetCode-Challenges\Palindrome Number\Palindrome Number\obj\Debug\net6.0\ref\Palindrome Number.dll
